@@ -1,4 +1,4 @@
-Simple deep learning agent, key elements:
+Simple RL agent, key elements:
 
 Monte Carlo algorithm for learning the V-value function.
 V-value array implementation.
